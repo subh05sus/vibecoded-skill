@@ -1,0 +1,15 @@
+{
+  "name": "vibecoded",
+  "description": "Make AI Slop Again: the 2023 AI SaaS website look, on demand.",
+  "owner": {
+    "name": "subh05sus",
+    "url": "https://github.com/subh05sus"
+  },
+  "plugins": [
+    {
+      "name": "vibecoded",
+      "source": "./",
+      "description": "Purple-blue gradients, glassmorphism, glowing pill buttons, blurred orbs, an oversized hero and generic startup copy. Manual invocation only."
+    }
+  ]
+}

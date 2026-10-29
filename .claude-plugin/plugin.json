@@ -1,0 +1,12 @@
+{
+  "name": "vibecoded",
+  "description": "Make AI Slop Again: build or restyle UI in the stereotypical 2023 AI-generated SaaS look. Runs only when you type /vibecoded.",
+  "version": "1.0.0",
+  "author": {
+    "name": "subh05sus"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/subh05sus/vibecoded-skill",
+  "repository": "https://github.com/subh05sus/vibecoded-skill",
+  "keywords": ["satire", "ai-slop", "glassmorphism", "gradients", "landing-page", "saas", "skill"]
+}
